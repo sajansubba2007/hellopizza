@@ -1,0 +1,116 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\hello pizz project file\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\app\src\main\AndroidManifest.xml:2:1-40:12
+	package
+		ADDED from D:\hello pizz project file\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from D:\hello pizz project file\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\app\src\main\AndroidManifest.xml
+		INJECTED from D:\hello pizz project file\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\hello pizz project file\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\app\src\main\AndroidManifest.xml
+		INJECTED from D:\hello pizz project file\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\hello pizz project file\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\hello pizz project file\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\app\src\main\AndroidManifest.xml
+		INJECTED from D:\hello pizz project file\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\hello pizz project file\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from D:\hello pizz project file\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\hello pizz project file\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from D:\hello pizz project file\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\app\src\main\AndroidManifest.xml:6:22-76
+application
+ADDED from D:\hello pizz project file\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\app\src\main\AndroidManifest.xml:8:5-38:19
+MERGED from [com.android.support:design:25.2.0] C:\Users\sajan\.android\build-cache\74f5e628c1a55c77e94a7a9a5e447d77364c4e9c\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\sajan\.android\build-cache\c8a701baa7e716aaee6c415aa5a29fde786ca180\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\sajan\.android\build-cache\e280eef380aa6840372356e8c5142cf6ac61338f\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\sajan\.android\build-cache\4400033d449c7ce331f94cf4e919b7f157858aaf\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.2.0] C:\Users\sajan\.android\build-cache\6a0a0a7ada6ab152122e85f7a09eb70e7dc96d4e\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\sajan\.android\build-cache\93f8ae328f914a9dfb02a6f5448a793cb426e86f\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\sajan\.android\build-cache\2611a23f3690ca94ecd9525a6baf2c72278f2282\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\sajan\.android\build-cache\dc303b88c5f98c876d1a4abf4ec0ab833992ca11\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\sajan\.android\build-cache\dee6385f40500d446a9a980e110a19035a9c9bfb\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\sajan\.android\build-cache\bee77214f7a819e57fde4a7fdb1e0b59ff4426ae\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\sajan\.android\build-cache\7904e278d8943f01afef7ac37b31ce3821abddc9\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:cardview-v7:25.2.0] C:\Users\sajan\.android\build-cache\3d00ec1e253fabe4ce529ff4c6681410b4b16294\output\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from D:\hello pizz project file\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\app\src\main\AndroidManifest.xml:11:9-41
+	android:supportsRtl
+		ADDED from D:\hello pizz project file\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\app\src\main\AndroidManifest.xml:13:9-35
+	android:roundIcon
+		ADDED from D:\hello pizz project file\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\app\src\main\AndroidManifest.xml:12:9-54
+	android:allowBackup
+		ADDED from D:\hello pizz project file\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\app\src\main\AndroidManifest.xml:9:9-35
+	android:icon
+		ADDED from D:\hello pizz project file\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\app\src\main\AndroidManifest.xml:10:9-43
+	android:theme
+		ADDED from D:\hello pizz project file\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.rowsun.hellopizza.MainActivity
+ADDED from D:\hello pizz project file\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\app\src\main\AndroidManifest.xml:15:9-24:20
+	android:label
+		ADDED from D:\hello pizz project file\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\app\src\main\AndroidManifest.xml:17:13-45
+	android:theme
+		ADDED from D:\hello pizz project file\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\app\src\main\AndroidManifest.xml:18:13-56
+	android:name
+		ADDED from D:\hello pizz project file\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\app\src\main\AndroidManifest.xml:16:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\hello pizz project file\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from D:\hello pizz project file\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from D:\hello pizz project file\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\hello pizz project file\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from D:\hello pizz project file\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\app\src\main\AndroidManifest.xml:22:27-74
+activity#com.rowsun.hellopizza.CartActivity
+ADDED from D:\hello pizz project file\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\app\src\main\AndroidManifest.xml:25:9-28:59
+	android:label
+		ADDED from D:\hello pizz project file\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\app\src\main\AndroidManifest.xml:27:13-33
+	android:theme
+		ADDED from D:\hello pizz project file\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\app\src\main\AndroidManifest.xml:28:13-56
+	android:name
+		ADDED from D:\hello pizz project file\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\app\src\main\AndroidManifest.xml:26:13-41
+activity#com.rowsun.hellopizza.PaymentActivity
+ADDED from D:\hello pizz project file\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\app\src\main\AndroidManifest.xml:29:9-31:59
+	android:theme
+		ADDED from D:\hello pizz project file\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\app\src\main\AndroidManifest.xml:31:13-56
+	android:name
+		ADDED from D:\hello pizz project file\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\app\src\main\AndroidManifest.xml:30:13-44
+activity#com.rowsun.hellopizza.LoginActivity
+ADDED from D:\hello pizz project file\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\app\src\main\AndroidManifest.xml:32:9-34:59
+	android:theme
+		ADDED from D:\hello pizz project file\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\app\src\main\AndroidManifest.xml:34:13-56
+	android:name
+		ADDED from D:\hello pizz project file\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\app\src\main\AndroidManifest.xml:33:13-42
+activity#com.rowsun.hellopizza.RegisterActivity
+ADDED from D:\hello pizz project file\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\app\src\main\AndroidManifest.xml:35:9-37:59
+	android:theme
+		ADDED from D:\hello pizz project file\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\app\src\main\AndroidManifest.xml:37:13-56
+	android:name
+		ADDED from D:\hello pizz project file\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\app\src\main\AndroidManifest.xml:36:13-45
+uses-sdk
+INJECTED from D:\hello pizz project file\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.2.0] C:\Users\sajan\.android\build-cache\74f5e628c1a55c77e94a7a9a5e447d77364c4e9c\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\sajan\.android\build-cache\c8a701baa7e716aaee6c415aa5a29fde786ca180\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\sajan\.android\build-cache\e280eef380aa6840372356e8c5142cf6ac61338f\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\sajan\.android\build-cache\4400033d449c7ce331f94cf4e919b7f157858aaf\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.2.0] C:\Users\sajan\.android\build-cache\719dcbf0f51bc67c9b000422cced17101d9e2da3\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.2.0] C:\Users\sajan\.android\build-cache\6a0a0a7ada6ab152122e85f7a09eb70e7dc96d4e\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\sajan\.android\build-cache\93f8ae328f914a9dfb02a6f5448a793cb426e86f\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\sajan\.android\build-cache\2611a23f3690ca94ecd9525a6baf2c72278f2282\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\sajan\.android\build-cache\dc303b88c5f98c876d1a4abf4ec0ab833992ca11\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\sajan\.android\build-cache\dee6385f40500d446a9a980e110a19035a9c9bfb\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\sajan\.android\build-cache\bee77214f7a819e57fde4a7fdb1e0b59ff4426ae\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\sajan\.android\build-cache\7904e278d8943f01afef7ac37b31ce3821abddc9\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:cardview-v7:25.2.0] C:\Users\sajan\.android\build-cache\3d00ec1e253fabe4ce529ff4c6681410b4b16294\output\AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.2.0] C:\Users\sajan\.android\build-cache\74f5e628c1a55c77e94a7a9a5e447d77364c4e9c\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from D:\hello pizz project file\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\app\src\main\AndroidManifest.xml
+		INJECTED from D:\hello pizz project file\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\hello pizz project file\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\app\src\main\AndroidManifest.xml
+		INJECTED from D:\hello pizz project file\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\app\src\main\AndroidManifest.xml

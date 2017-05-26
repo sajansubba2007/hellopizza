@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_login"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/h_brown_500"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical"
+    tools:context="com.rowsun.hellopizza.LoginActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fitsSystemWindows="true"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:backgroundTint="#aa000000"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_gravity="center"
+                android:src="@mipmap/ic_launcher" />
+
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="32dp"
+                android:layout_marginRight="32dp"
+                app:cardBackgroundColor="#aa000000"
+                app:contentPadding="8dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:padding="8dp">
+
+                        <ImageView
+                            android:layout_width="30dp"
+                            android:layout_height="30dp"
+                            android:layout_gravity="center_vertical"
+                            android:padding="8dp"
+                            android:src="@drawable/ic_username"
+                            android:tint="@color/h_white_1000" />
+
+                        <EditText
+                            android:id="@+id/email"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_vertical"
+                            android:hint="Email"
+                            android:inputType="textEmailAddress"
+                            android:maxLines="1"
+                            android:padding="8dp"
+                            android:textColor="#ffffff"
+                            android:textColorHint="#ffffff" />
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:padding="8dp">
+
+                        <ImageView
+                            android:layout_width="30dp"
+                            android:layout_height="30dp"
+                            android:layout_gravity="center_vertical"
+                            android:padding="8dp"
+                            android:src="@drawable/ic_password"
+                            android:tint="@color/h_white_1000" />
+
+                        <EditText
+                            android:id="@+id/password"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_vertical"
+                            android:layout_weight="1"
+                            android:hint="Password"
+                            android:inputType="textPassword"
+                            android:maxLines="1"
+                            android:padding="8dp"
+                            android:textColor="#ffffff"
+                            android:textColorHint="#ffffff" />
+
+                    </LinearLayout>
+                </LinearLayout>
+            </android.support.v7.widget.CardView>
+
+            <TextView
+                android:id="@+id/forgetPassword"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="right"
+                android:padding="16dp"
+                android:visibility="invisible"
+                android:text="Forget password?"
+                android:textColor="#ffffff"
+                android:textSize="16sp" />
+
+            <android.support.v7.widget.CardView
+                android:id="@+id/sign_in"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:foreground="?attr/selectableItemBackground"
+                app:cardBackgroundColor="@color/colorPrimaryDark"
+                app:cardCornerRadius="24dp"
+                app:contentPadding="4dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:paddingBottom="8dp"
+                    android:paddingLeft="64dp"
+                    android:paddingRight="64dp"
+                    android:paddingTop="8dp"
+                    android:text="@string/sign_in"
+                    android:textColor="#ffffff"
+                    android:textSize="16sp" />
+            </android.support.v7.widget.CardView>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="@string/don_t_have_an_account"
+                android:textColor="#ffffff" />
+
+            <TextView
+                android:id="@+id/sign_up"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="@string/sign_up"
+                android:textColor="#ffffff" />
+        </LinearLayout>
+    </ScrollView>
+</android.support.design.widget.CoordinatorLayout>

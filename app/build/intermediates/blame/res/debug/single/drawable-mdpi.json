@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "D:\\hello pizz project file\\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_check_black_24dp.png",
+        "source": "D:\\hello pizz project file\\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_check_black_24dp.png"
+    },
+    {
+        "merged": "D:\\hello pizz project file\\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_clear.png",
+        "source": "D:\\hello pizz project file\\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\\app\\src\\main\\res\\drawable-mdpi\\ic_clear.png"
+    },
+    {
+        "merged": "D:\\hello pizz project file\\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_username.png",
+        "source": "D:\\hello pizz project file\\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\\app\\src\\main\\res\\drawable-mdpi\\ic_username.png"
+    },
+    {
+        "merged": "D:\\hello pizz project file\\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_cart.png",
+        "source": "D:\\hello pizz project file\\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\\app\\src\\main\\res\\drawable-mdpi\\ic_cart.png"
+    },
+    {
+        "merged": "F:\\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_cart.png",
+        "source": "F:\\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\\app\\src\\main\\res\\drawable-mdpi\\ic_cart.png"
+    },
+    {
+        "merged": "F:\\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_password.png",
+        "source": "F:\\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\\app\\src\\main\\res\\drawable-mdpi\\ic_password.png"
+    },
+    {
+        "merged": "D:\\hello pizz project file\\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_right.png",
+        "source": "D:\\hello pizz project file\\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\\app\\src\\main\\res\\drawable-mdpi\\ic_right.png"
+    },
+    {
+        "merged": "F:\\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_clear.png",
+        "source": "F:\\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\\app\\src\\main\\res\\drawable-mdpi\\ic_clear.png"
+    },
+    {
+        "merged": "F:\\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_username.png",
+        "source": "F:\\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\\app\\src\\main\\res\\drawable-mdpi\\ic_username.png"
+    },
+    {
+        "merged": "F:\\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_check_black_24dp.png",
+        "source": "F:\\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_check_black_24dp.png"
+    },
+    {
+        "merged": "D:\\hello pizz project file\\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_minus.png",
+        "source": "D:\\hello pizz project file\\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\\app\\src\\main\\res\\drawable-mdpi\\ic_minus.png"
+    },
+    {
+        "merged": "D:\\hello pizz project file\\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_password.png",
+        "source": "D:\\hello pizz project file\\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\\app\\src\\main\\res\\drawable-mdpi\\ic_password.png"
+    },
+    {
+        "merged": "F:\\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_delete.png",
+        "source": "F:\\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\\app\\src\\main\\res\\drawable-mdpi\\ic_delete.png"
+    },
+    {
+        "merged": "F:\\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_right.png",
+        "source": "F:\\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\\app\\src\\main\\res\\drawable-mdpi\\ic_right.png"
+    },
+    {
+        "merged": "F:\\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_minus.png",
+        "source": "F:\\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\\app\\src\\main\\res\\drawable-mdpi\\ic_minus.png"
+    },
+    {
+        "merged": "D:\\hello pizz project file\\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_delete.png",
+        "source": "D:\\hello pizz project file\\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\\app\\src\\main\\res\\drawable-mdpi\\ic_delete.png"
+    },
+    {
+        "merged": "D:\\hello pizz project file\\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_plus.png",
+        "source": "D:\\hello pizz project file\\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\\app\\src\\main\\res\\drawable-mdpi\\ic_plus.png"
+    },
+    {
+        "merged": "F:\\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_plus.png",
+        "source": "F:\\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\\app\\src\\main\\res\\drawable-mdpi\\ic_plus.png"
+    }
+]

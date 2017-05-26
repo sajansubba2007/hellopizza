@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/content_payment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.rowsun.hellopizza.PaymentActivity"
+    tools:showIn="@layout/activity_payment">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:padding="8dp"
+                android:text="2 of 3"
+
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:textSize="20sp"
+                android:text="CHECKOUT"
+                android:textColor="@color/h_black_1000"
+
+                />
+
+            <android.support.design.widget.TextInputLayout
+                android:id="@+id/ti_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="8dp">
+
+                <EditText
+                    android:id="@+id/et_name"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="Name" />
+            </android.support.design.widget.TextInputLayout>
+
+            <android.support.design.widget.TextInputLayout
+                android:id="@+id/ti_mobile"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="8dp">
+
+                <EditText
+                    android:id="@+id/et_mobile"
+                    android:layout_width="match_parent"
+                    android:inputType="number"
+                    android:layout_height="wrap_content"
+                    android:hint="Mobile Number" />
+            </android.support.design.widget.TextInputLayout>
+
+            <android.support.design.widget.TextInputLayout
+                android:id="@+id/ti_add"
+                android:layout_width="match_parent"
+
+                android:layout_height="wrap_content"
+                android:padding="8dp">
+
+                <EditText
+                    android:id="@+id/et_add"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                  />
+            </android.support.design.widget.TextInputLayout>
+
+
+
+            <android.support.design.widget.TextInputLayout
+                android:id="@+id/ti_card_number"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="8dp">
+
+                <EditText
+                    android:id="@+id/et_card_number"
+                    android:layout_width="match_parent"
+                    android:inputType="number"
+                    android:layout_height="wrap_content"
+                    android:hint="Gift Card Number" />
+            </android.support.design.widget.TextInputLayout>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+
+                <android.support.design.widget.TextInputLayout
+                    android:id="@+id/ti_date"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:layout_height="wrap_content"
+                    android:padding="8dp">
+
+                    <EditText
+                        android:id="@+id/et_date"
+                        android:inputType="date"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:hint="Expiry(MM/YY)" />
+                </android.support.design.widget.TextInputLayout>
+
+
+                <android.support.design.widget.TextInputLayout
+                    android:id="@+id/ti_card_code"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:layout_height="wrap_content"
+                    android:padding="8dp">
+
+                    <EditText
+                        android:id="@+id/et_card_code"
+                        android:layout_width="match_parent"
+                        android:inputType="number"
+                        android:layout_height="wrap_content"
+                        android:hint="Card Code" />
+                </android.support.design.widget.TextInputLayout>
+
+
+
+            </LinearLayout>
+
+            <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:text="Payment Detail"
+        android:textSize="16sp"
+        android:textColor="@color/h_black_1000"
+        />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp"
+                android:background="@color/h_black_1000"
+                />
+
+         <LinearLayout
+             android:layout_width="match_parent"
+             android:paddingLeft="8dp"
+             android:layout_height="wrap_content">
+            <TextView
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:text="Subtotal:"
+                android:textColor="@color/h_black_1000"
+                />
+             <TextView
+                android:layout_width="0dp"
+                 android:layout_weight="1"
+                 android:padding="8dp"
+                android:layout_height="wrap_content"
+                android:textColor="@color/h_black_1000"
+                android:id="@+id/sub_total"
+                />
+         </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:paddingLeft="8dp"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:layout_height="wrap_content"
+                    android:text="Delivery:"
+                    android:textColor="@color/h_black_1000"
+                    />
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:layout_height="wrap_content"
+                    android:text="FREE"
+                    android:padding="8dp"
+                    android:textColor="@color/h_black_1000"
+                    />
+            </LinearLayout>
+
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:paddingLeft="8dp"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:layout_height="wrap_content"
+                    android:text="Total:"
+                    android:textColor="@color/h_black_1000"
+                    />
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:padding="8dp"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/h_black_1000"
+                    android:id="@+id/total"
+                    />
+
+            </LinearLayout>
+
+        </LinearLayout>
+    </ScrollView>
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/checkout"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:foreground="?attr/selectableItemBackground"
+        app:cardBackgroundColor="@color/colorPrimary"
+        app:cardUseCompatPadding="true"
+        app:contentPadding="4dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:text="Place Order"
+            android:textColor="@color/h_black_1000"
+            android:textSize="20sp" />
+    </android.support.v7.widget.CardView>
+</LinearLayout>

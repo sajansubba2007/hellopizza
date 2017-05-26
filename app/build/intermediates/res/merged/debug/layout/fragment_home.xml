@@ -1,0 +1,89 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    android:background="@color/h_amber_300"
+    tools:context="com.rowsun.hellopizza.HomeFragment">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Say Hello To"
+        android:textSize="20sp"
+        android:gravity="center"
+        android:padding="8dp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Amazing Pizza"
+        android:textSize="36sp"
+        android:gravity="center"
+        android:textColor="@color/h_black_1000"
+        android:paddingTop="8dp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Extra Large Artisan Pizza From Just $12"
+        android:textAllCaps="true"
+        android:textStyle="bold"
+        android:gravity="center"
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/quote"
+        android:textSize="16sp"
+        android:layout_marginTop="16dp"
+        android:lineSpacingMultiplier="1.2"
+        android:gravity="center"
+        android:padding="8dp"
+        />
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:text="Delivery"
+        android:textAllCaps="true"
+        android:id="@+id/delivery"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:text="Pickup"
+        android:textAllCaps="true"
+        android:id="@+id/pickup"
+        />
+
+    <!--<EditText-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_gravity="center"-->
+        <!--android:id="@+id/et_base_url"-->
+        <!--android:hint="You base url"-->
+        <!--/>-->
+
+    <!--<Button-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_margin="8dp"-->
+        <!--android:layout_gravity="center"-->
+        <!--android:text="Save"-->
+        <!--android:textAllCaps="true"-->
+        <!--android:id="@+id/save"-->
+        <!--/>-->
+</LinearLayout>
+</ScrollView>

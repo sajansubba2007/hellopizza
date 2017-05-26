@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "F:\\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\philip subba\\.android\\build-cache\\a5066d7ff911e63a09a1ab93c997a150a0c037e7\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "F:\\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\philip subba\\.android\\build-cache\\a5066d7ff911e63a09a1ab93c997a150a0c037e7\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\hello pizz project file\\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\sajan\\.android\\build-cache\\74f5e628c1a55c77e94a7a9a5e447d77364c4e9c\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "D:\\hello pizz project file\\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\sajan\\.android\\build-cache\\74f5e628c1a55c77e94a7a9a5e447d77364c4e9c\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "D:\\hello pizz project file\\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\sajan\\.android\\build-cache\\c8a701baa7e716aaee6c415aa5a29fde786ca180\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\hello pizz project file\\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\sajan\\.android\\build-cache\\74f5e628c1a55c77e94a7a9a5e447d77364c4e9c\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "F:\\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\philip subba\\.android\\build-cache\\a5066d7ff911e63a09a1ab93c997a150a0c037e7\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\hello pizz project file\\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\sajan\\.android\\build-cache\\c8a701baa7e716aaee6c415aa5a29fde786ca180\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\philip subba\\.android\\build-cache\\00429cb3a169872794418c72ef3d5537e8d8cbb3\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "F:\\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\philip subba\\.android\\build-cache\\a5066d7ff911e63a09a1ab93c997a150a0c037e7\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "F:\\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\philip subba\\.android\\build-cache\\a5066d7ff911e63a09a1ab93c997a150a0c037e7\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\hello pizz project file\\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\sajan\\.android\\build-cache\\c8a701baa7e716aaee6c415aa5a29fde786ca180\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\hello pizz project file\\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\sajan\\.android\\build-cache\\74f5e628c1a55c77e94a7a9a5e447d77364c4e9c\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "F:\\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\philip subba\\.android\\build-cache\\00429cb3a169872794418c72ef3d5537e8d8cbb3\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "F:\\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\philip subba\\.android\\build-cache\\00429cb3a169872794418c72ef3d5537e8d8cbb3\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "F:\\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\philip subba\\.android\\build-cache\\00429cb3a169872794418c72ef3d5537e8d8cbb3\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "D:\\hello pizz project file\\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\sajan\\.android\\build-cache\\74f5e628c1a55c77e94a7a9a5e447d77364c4e9c\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "F:\\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\philip subba\\.android\\build-cache\\a5066d7ff911e63a09a1ab93c997a150a0c037e7\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\hello pizz project file\\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\sajan\\.android\\build-cache\\c8a701baa7e716aaee6c415aa5a29fde786ca180\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\hello pizz project file\\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\sajan\\.android\\build-cache\\c8a701baa7e716aaee6c415aa5a29fde786ca180\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\hello pizz project file\\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\sajan\\.android\\build-cache\\74f5e628c1a55c77e94a7a9a5e447d77364c4e9c\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "F:\\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\philip subba\\.android\\build-cache\\a5066d7ff911e63a09a1ab93c997a150a0c037e7\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\hello pizz project file\\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\sajan\\.android\\build-cache\\c8a701baa7e716aaee6c415aa5a29fde786ca180\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\hello pizz project file\\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\sajan\\.android\\build-cache\\c8a701baa7e716aaee6c415aa5a29fde786ca180\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "F:\\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\philip subba\\.android\\build-cache\\a5066d7ff911e63a09a1ab93c997a150a0c037e7\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\hello pizz project file\\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\sajan\\.android\\build-cache\\c8a701baa7e716aaee6c415aa5a29fde786ca180\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "F:\\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\philip subba\\.android\\build-cache\\00429cb3a169872794418c72ef3d5537e8d8cbb3\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "D:\\hello pizz project file\\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\sajan\\.android\\build-cache\\c8a701baa7e716aaee6c415aa5a29fde786ca180\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "F:\\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\philip subba\\.android\\build-cache\\a5066d7ff911e63a09a1ab93c997a150a0c037e7\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "F:\\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\philip subba\\.android\\build-cache\\a5066d7ff911e63a09a1ab93c997a150a0c037e7\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\hello pizz project file\\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\sajan\\.android\\build-cache\\c8a701baa7e716aaee6c415aa5a29fde786ca180\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "F:\\HelloPizza-Demo-master-b982894cbdc00e8cfdb75bba7f6ab28c5bcfcbef\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\philip subba\\.android\\build-cache\\00429cb3a169872794418c72ef3d5537e8d8cbb3\\output\\res\\anim\\design_fab_in.xml"
+    }
+]

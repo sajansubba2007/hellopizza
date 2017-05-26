@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_del"
+            android:title="Delivery" />
+        <item
+            android:id="@+id/nav_pick"
+            android:title="Pickup" />
+        <item
+            android:id="@+id/nav_our_story"
+            android:title="Our Story" />
+        <item
+            android:id="@+id/nav_tell_a_friend"
+            android:title="Tell a friend" />
+        <item
+            android:id="@+id/nav_the_pizza"
+            android:title="The Pizza" />
+        <item
+            android:id="@+id/nav_logout"
+            android:title="Logout" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send" />
+        </menu>
+    </item>
+
+</menu>
