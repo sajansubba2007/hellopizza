@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">HelloPizza</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="quote">Loking for an amazing gourmet pizza, at a great price without all the hoo-ha? You have come to right place. We are hello pizza we are on a mission to change the way australians enjoys pizza - forever</string>
+    <string name="title_activity_take_order">TakeOrderActivity</string>
+    <string name="sign_in">Sign In</string>
+    <string name="don_t_have_an_account">Donot have account ?</string>
+    <string name="sign_up">Sign Up</string>
+</resources>
